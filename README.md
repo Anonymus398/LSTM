@@ -17,10 +17,10 @@ pip install transformers
 https://youtube.com/playlist?list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh&si=Yh_xgV1dgyaQ-v5n
 
 
-2)Простейшее описание нейронных сетей
+2.Простейшее описание нейронных сетей
 
 
 https://youtu.be/RJCIYBAAiEI?si=TlcgmSnxdYi6kMIa
 
 
-3)https://youtu.be/WIttZGQEdas?si=qFrWEkxeRBUk3LjQ
+3.https://youtu.be/WIttZGQEdas?si=qFrWEkxeRBUk3LjQ
